@@ -7,7 +7,7 @@
 
 This repository accompanies KS&R's Quant UX 2026 talk: *Beyond the Spreadsheet: Modernizing Conjoint Simulators Using a Shiny Toolkit.*
 
-In the talk, we argue that a conjoint simulator should be treated as a user-facing research product, not just an analytic output. This repo is a provides a a minimal shiny framework as a starting point: a basic Shiny app that shows how user inputs flow into a scenario, a validation step, and a results table.
+In the talk, we argue that a conjoint simulator should be treated as a user-facing research product, not just an analytic output. This repo provides a minimal shiny framework as a starting point: a basic Shiny app that shows how user inputs flow into a scenario, a validation step, and a results table.
 
 This repo and app are for education purposes only and are intended to illustrate the basic framework of a very simple Shiny app in R. The app in this repo runs out of the box, but the included placeholder functions are for illustration purposes only and generate random numbers in the output table. 
 
